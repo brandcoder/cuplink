@@ -1,0 +1,4 @@
+@import '~antd/dist/antd.css';
+
+.container { height: 100%; display: flex; justify-content: center; }
+.section { padding-top:100px; width: 80%; }
